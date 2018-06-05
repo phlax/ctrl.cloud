@@ -8,6 +8,7 @@ from setuptools import setup
 
 
 install_requires = [
+    'aiohttp',
     'ctrl.core',
     'ctrl.command']
 
